@@ -13,4 +13,4 @@ In turn it regulates how bright LED gets.
 Applications include getting Lights to turn on or off when its dark in a room.
 
 ## Files
-The project files include the code(surprising_bigery1.ino) and a simulated model(surprising_bigery.brd) from tinkercad.com. Its a free platform which i use for prototyping my arduino projects before i get my hands dirty.
+The project files include the code(surprising_bigery1.ino) and a simulated model(surprising_bigery.brd) which i made from tinkercad.com. Its a free platform which i use for prototyping my arduino projects before i get my hands dirty.
