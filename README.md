@@ -16,3 +16,12 @@ Applications include getting Lights to turn on or off when its dark in a room.
 The project files include the code(surprising_bigery1.ino) and a simulated model(surprising_bigery.brd) which i made from tinkercad.com. Its a free platform which i use for prototyping my arduino projects before i get my hands dirty.
 
 To test the simulation. You'll need an account from tinkercad.com if you already don't have one. Import the .brd file and run
+
+## Components Used
+1. Arduino Uno
+2. Photoresistor
+3. 10K Potentiometer
+4. LED
+5. 220 Ohm Resistor
+6. Some jumper wires
+7. Breadboard
