@@ -15,7 +15,9 @@ Applications include getting Lights to turn on or off when its dark in a room.
 ## Files
 The project files include the code( <b>surprising_bigery1.ino</b> ) and a simulated model( <b>surprising_bigery.brd</b> ) which i made from <a href="tinkercard.com">tinkercad.com</a>. Its a free platform which i use for prototyping my arduino projects before i get my hands dirty.
 
-To test the simulation. You'll need an account from <a href="tinkercard.com">tinkercad.com</a> if you already don't have one. Import the <i>.brd</i> file and run
+To open the .brd You'll need a suitable software like <a href="www.cadence.com">Allegro</a> or <a href="https://www.autodesk.com/products/eagle/overview"> Eagle Layout Editor </a>
+
+You can visit <a href="tinkercard.com">tinkercad.com</a> to try some simulation on your own.
 
 ## Components Used
 1. Arduino Uno
